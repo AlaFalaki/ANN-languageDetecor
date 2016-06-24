@@ -1,5 +1,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <?php
+// Author: Ala Alam Falaki <http://AlaFalaki.ir>
+// Date:   2016-06-24
+
 if($_POST){
 	/////////////////////////////////////
 	///FIRST PARSE THE INSERTED STRING///
