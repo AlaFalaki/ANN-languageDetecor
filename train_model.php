@@ -1,4 +1,7 @@
 <?php	
+// Author: Ala Alam Falaki <http://AlaFalaki.ir>
+// Date:   2016-06-24
+
 // Number of inputs
 $num_input = 3;
 // Number of outputs.
