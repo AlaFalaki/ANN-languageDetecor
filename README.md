@@ -17,7 +17,7 @@ Array ( [0] => 0.96449780464172 [1] => -0.035985063761473 )
 Where indice 0 represent chance for a string to be Persian, and 1 represent the chance for a string to be English. (The script's decision was very good.)
 
 # About "parser.php" File:
-You looked at the source code? yes, your right! I could have optimized it BIG TIME! But at the time i was writing this script i just wanted the result for a paper that i was writing. So i wasn't consern about any performance issue. (If you have time, be my guest, send a request pull, i really appreciate it.)
+You looked at the source code? yes, your right! I could have optimized it BIG TIME! But at the time i was writing this script i just wanted the result for a paper that i was writing. So i wasn't concern about any performance issue. (If you have time, be my guest, send a request pull, i really appreciate it.)
 
 # a Word With Persian Speakers:
 <p dir="rtl">
