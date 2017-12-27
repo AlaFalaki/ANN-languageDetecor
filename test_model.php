@@ -52,8 +52,8 @@ if($_POST){
 	$pPercent = $calc_out[0] * 100;
 	$enPercent = $calc_out[1] * 100;
 	echo "<p>Your Inserted String: {$string}</p>";
-	echo "<p>CHANSE OF TO BE PERSIAN: {$pPercent} %</p>";
-	echo "<p>CHANSE OF TO BE ENGLISH: {$enPercent} %</p>";
+	echo "<p>The Chance to be PERSIAN: {$pPercent} %</p>";
+	echo "<p>The Chance to be ENGLISH: {$enPercent} %</p>";
 	echo "<hr />";
 }
 ?>
